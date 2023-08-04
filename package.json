@@ -2,11 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": false,
-<<<<<<< HEAD
-  "homepage": "https://sunnyaditya07.github.io/react-calculator",
-=======
-  "homepage": "https://sunnyaditya07.github.io/react-calculator/",
->>>>>>> 1925ee73e1a12669a56283781f14b3799fb84766
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
